@@ -1,0 +1,13 @@
+To use the Text Censorship program, once the web app is open via localhost or live server: 
+1.    Input the desired text into the text box
+2.    Click the 'Censor text' button.
+3.    Then, copy the censored text from the text box, and you are all ready.
+
+All ALPHANUMERIC characters will be censored. Punctuation and spaces will not. There is an option in the javascript file for how you want the censoring to look. Your options:
+
+1. The dog is "red" => The dog is "XXX"
+2. The dog is "red" => The dog is XXX
+
+I hope you enojy this product, and will leave a good review. 
+
+Web application created by turtlesdsgn. 
