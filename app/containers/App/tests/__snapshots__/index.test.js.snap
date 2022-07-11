@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> should render and match the snapshot 1`] = `
+<ForwardRef>
+  <HelmetWrapper
+    defaultTitle="Grimoire Technical Challenge"
+    defer={true}
+    encodeSpecialCharacters={true}
+    titleTemplate="%s - Grimoire Technical Challenge"
+  >
+    <meta
+      content="A Grimoire Technical Challenge application"
+      name="description"
+    />
+  </HelmetWrapper>
+  <Header />
+  <Switch>
+    <Route
+      component={[Function]}
+      exact={true}
+      path="/"
+    />
+    <Route
+      component={[Function]}
+      path="/redact"
+    />
+    <Route
+      component={[Function]}
+      path=""
+    />
+  </Switch>
+  <Footer />
+  <GlobalStyleComponent />
+</ForwardRef>
+`;
